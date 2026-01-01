@@ -1,0 +1,8 @@
+{
+  "Career Title": "Intern Physicist",
+  "Base Role": "Physicist",
+  "Domain": "Science",
+  "Sector": "Private Sector",
+  "India Scope": "Local",
+  "Govt Framework Compatibility": "NCO Aligned"
+}

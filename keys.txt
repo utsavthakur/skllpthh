@@ -1,0 +1,8 @@
+[
+  "Career Title",
+  "Base Role",
+  "Domain",
+  "Sector",
+  "India Scope",
+  "Govt Framework Compatibility"
+]
